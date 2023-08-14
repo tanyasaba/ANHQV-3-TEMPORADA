@@ -26,6 +26,10 @@ https://cdn9.lqsa.es/anhqv/3x07/master.m3u8
 
 #EXTINF :-1 , 8 ERASE UN ANIVERSARIO
 
+https://cdn9.lqsa.es/anhqv/3x07b/master.m3u8
+
+#EXTINF :-1 , 8 ERASE UN famoso
+
 https://cdn9.lqsa.es/anhqv/3x08/master.m3u8
 
 #EXTINF :-1 , 9 ERASE UN DESALOJO
@@ -92,9 +96,13 @@ https://cdn9.lqsa.es/anhqv/3x23/master.m3u8
 
 https://cdn9.lqsa.es/anhqv/3x24/master.m3u8
 
-#EXTINF :-1 , 25 ERASE UNA VISITA GUIADA
+#EXTINF :-1 , 25 ERASE UNA TRAICIÓN
 
 https://cdn9.lqsa.es/anhqv/3x25/master.m3u8
+
+#EXTINF :-1 , 25B ERASE UNA VISITA GUIADA
+
+https://cdn9.lqsa.es/anhqv/3x25b/master.m3u8
 
 #EXTINF :-1 , 26 ERASE UL PRIMER PRESIDENTE GAY
 
